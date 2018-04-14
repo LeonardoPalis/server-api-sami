@@ -1,0 +1,7 @@
+global.DATABASE_NAME = "server_iot_cloud";
+global.DATABASE_USER = 'root';
+global.DATABASE_PSW = '1tuta2';
+global.HUB_PERMISSION = '0TbXLx16r119V9fCe3iPy9gRZe1RcrH6';
+global.HUB_GUESS_PERMISSION = 'l6JE2h0XZc6tsZSnApCBeDo80t02aHbm';
+exports.LENGTH_PACKAGE_REQUES_IN = 8;
+exports.UNIVERSAL_SENSOR_KEY = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855";
